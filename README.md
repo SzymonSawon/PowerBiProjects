@@ -4,6 +4,6 @@ My PowerBi projects and reports
 ### Dataset:
 https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews/data?select=Books_rating.csv
 ### Reports
-- [Stichly](BookRatingsReport.pdf)
-- [Book ratings](BookRatingsReport.pdf)
+- [Stichly](stichly.pdf)
+- [Book ratings](coffeshop.pdf)
 - [Coffee](BookRatingsReport.pdf)
